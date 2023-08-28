@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "name": "Ahmed Mohamed",
+      "password": "12345678",
+      "email": "amj@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Maria",
+      "password": "12341234",
+      "email": "mary@outlook.io",
+      "id": 2
+    }
+  ],
+  "locations": [
+    {
+      "name": "99Grill",
+      "address": "USA, Nivada",
+      "phone": "12345678900",
+      "userID": 1,
+      "id": 2
+    },
+    {
+      "name": "Ghost burger",
+      "address": "Iraq, Kerkuk",
+      "phone": "12345678900",
+      "userID": 1,
+      "id": 3
+    },
+    {
+      "name": "Mandi",
+      "address": "KSA, Mecka",
+      "phone": "12345678900",
+      "userID": 1,
+      "id": 4
+    },
+    {
+      "name": "Kabab Najar",
+      "address": "Kurdistan, Hawler, 60M street",
+      "phone": "12345678900",
+      "userID": 1,
+      "id": 5
+    },
+    {
+      "name": "Carrot burger",
+      "address": "Kurdistan, 60M street",
+      "phone": "12345678900",
+      "userID": 2,
+      "id": 6
+    },
+    {
+      "name": "Burger king",
+      "address": "USA, Newyork",
+      "phone": "00000000000",
+      "userID": 1,
+      "id": 7
+    },
+    {
+      "name": "Fast burger",
+      "address": "USA, California",
+      "phone": "12345678900",
+      "userID": 1,
+      "id": 8
+    },
+    {
+      "name": "AJ Chicken",
+      "address": "daquq, kerkuk, Iraq",
+      "phone": "12345678900",
+      "userID": 1,
+      "id": 9
+    }
+  ],
+  "categories": [
+    {
+      "name": "breakfast",
+      "id": "1",
+      "locationID": "3",
+      "userID": "1"
+    },
+    {
+      "name": "launch",
+      "id": "2",
+      "locationID": "3",
+      "userID": "1"
+    },
+    {
+      "name": "dinner",
+      "id": "3",
+      "locationID": "3",
+      "userID": "1"
+    }
+  ],
+  "items": []
+}
